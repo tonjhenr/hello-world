@@ -1,2 +1,3 @@
 # hello-world
-Forskjellige ideer
+Her vil jeg legge inn forskjellige idéer og prosjekter jeg lager for morro skyld :) 
+
